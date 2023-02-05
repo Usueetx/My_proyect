@@ -1,0 +1,61 @@
+.menu{
+    direction: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 0cm;
+    height: 2cm;
+    background-color:   rgb(193, 115, 115);
+}
+
+.a{
+    position: relative;
+    top: 0cm;
+    left: 25cm;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.5em;
+}
+.a:hover{
+ color: white
+}
+.b{
+    position: relative;
+    top: 0cm;
+    left: 27cm;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.5em;
+}
+.b:hover{
+    color: white
+   }
+.c{
+    position: relative;
+    top: 0cm;
+    left: 29cm;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.5em;
+}
+.c:hover{
+    color: white
+   }
+.d{
+    position: relative;
+    top: 0cm;
+    left: 31cm;
+    font-size: 1.5em;
+    font-family: "Times New Roman", sans-serif;
+}
+.d:hover{
+    color: white;
+   }
+
+.logo{
+    position: relative;
+    top: 0.2cm;
+    height: 60px;
+    width: 80px;
+    border-radius: 40%;
+}
+
+.logo:hover{
+    transform: scale(1.1);
+   }

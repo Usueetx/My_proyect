@@ -1,0 +1,23 @@
+.rrss{
+
+    position: relative;
+    font-size: 0.8cm;
+    left: 1cm;
+    
+}
+#rights{
+
+    position: relative;
+    left: 1cm;
+    
+   
+}
+
+.footerback{
+     height: 6cm;
+     position: relative;
+     top: 500px;
+     /* bottom: 0px; */
+     bottom:0%;
+     /* background-color:  rgb(193, 115, 115); */
+}

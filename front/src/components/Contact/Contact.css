@@ -1,0 +1,55 @@
+#contact{
+    font-family: "Times New Roman", sans-serif;
+    color: #c17373;
+    font-weight: normal;
+    text-align: center;
+    font-size: 3em;
+    position: relative;
+    bottom: 5px;
+    top: 25px;
+}
+
+#insta{
+    font-family: "Times New Roman", sans-serif;
+    color: #c17373;
+    font-weight: normal;
+    text-align: center;
+}
+
+form{
+    width: 450px;
+    margin: auto;
+    background-color: rgba(193, 115, 115, 0.395) ;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+    font-family: monospace;
+}
+
+input, textarea{
+ width: 100%;
+ margin-bottom: 10px;
+ font-family: monospace;
+ padding: 5px;
+ box-sizing: border-box;
+ font-size: 15px;
+ border: none;
+}
+
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#submit{
+    background: #c17373;
+    color: white;
+    padding: 20px;
+}
+#submit:hover{
+    background: #c173737f;
+    color: white;
+    cursor:pointer;
+}

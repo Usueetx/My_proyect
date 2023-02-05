@@ -1,0 +1,22 @@
+.draw{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    position: relative;
+    float: left;
+
+}
+
+.img{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.foto{
+    width: 300px;
+    height: auto;
+}
+
+

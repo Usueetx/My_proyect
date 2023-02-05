@@ -1,0 +1,33 @@
+#about {
+    font-family: "Times New Roman", sans-serif;
+    color: rgb(193, 115, 115);
+    font-weight: normal;
+    text-align: center;
+    font-size: 3em;
+    position: relative;
+    bottom: 5px;
+    top: 25px;
+}
+
+.image{
+    position: relative;
+    left: 11cm;
+    width: 340px;
+    height: 400px;
+    border-radius: 7px;
+
+}
+
+.text{
+    position: relative;
+    background-color: rgba(193, 115, 115, 0.395) ;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+    left: 22cm;
+    bottom: 424px;
+    width: 340px;
+    height: 400px;
+}
+
